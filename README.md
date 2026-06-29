@@ -22,23 +22,23 @@ A modern, clean, and fully responsive restaurant website landing page built from
 
 ### 1️⃣ Home Page & Welcome Screen
 The main landing interface featuring the restaurant's branding and primary call-to-action buttons.
-![Home Hero](img/home_hero.PNG)
+![Home Hero](img/home_hero.png)
 
 ### 2️⃣ About Our Restaurant
 Dedicated section introducing the story, heritage, and unique value proposition of the restaurant.
-![About Us](img/about_section.PNG)
+![About Us](img/about_section.png)
 
 ### 3️⃣ Special Offers & Food Menu
 Curated layouts showcasing promotional discount campaigns alongside the full text-based culinary menu.
 | Special Deals | Menu Items List |
 |---|---|
-| ![Offers](img/special_offers.PNG) | ![Menu](img/food_menu.PNG) |
+| ![Offers](img/special_offers.png) | ![Menu](img/food_menu.png) |
 
 ### 4️⃣ Food Gallery & Contact Form
 A visual grid showcasing the top dishes followed by an integrated modern communication form for reservations and feedback.
 | Visual Gallery | Get in Touch |
 |---|---|
-| ![Gallery](img/food_gallery.PNG) | ![Contact](img/contact_us.PNG) |
+| ![Gallery](img/food_gallery.png) | ![Contact](img/contact_us.png) |
 
 ---
 
