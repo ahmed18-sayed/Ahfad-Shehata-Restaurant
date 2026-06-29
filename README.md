@@ -5,7 +5,7 @@ A modern, clean, and fully responsive restaurant website landing page built from
 ---
 
 ## 🚀 Live Demo
-*(Once you enable GitHub Pages, paste your live link here! e.g., https://yourusername.github.io/Ahfad-Shehata-Restaurant/)*
+*(Once you enable GitHub Pages, paste your live link here! e.g., https://ahmed18-sayed.github.io/Ahfad-Shehata-Restaurant/)*
 
 ---
 
